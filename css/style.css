@@ -1,0 +1,77 @@
+.menu{
+    list-style-type: none;
+    display: flex;
+    margin-top: 10px;
+}
+.right{
+    margin-right: 10px;
+    color: white;
+}
+.top-bar{
+    background-color: #174873;
+    width: 111%;
+    border-bottom: 1px solid #ededed;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: -15px;
+}
+.xwe{
+    position: fixed;
+    left: 52px;
+    top: 10px;
+}
+.mac{
+    height: 40px;
+    width: auto;
+}
+.stu{
+    margin-right: 15px;
+    font-size: 20px;
+    color: #174873;
+    border-bottom: 2px solid transparent;
+    font-weight: 400;
+}
+.spy{
+    position: fixed;
+    left: 18px;
+    padding: 25px 25px;
+}
+.ups{
+    margin-top: 8px !important;
+}
+.footerTop{
+    position: relative;
+    top: 75px;
+}
+.text{
+    font-size: 14px;
+}
+.cbs{
+    position: absolute;
+    top: 36px;
+    left: -18px;
+}
+.sbc{
+    position: absolute;
+    top: 33px;
+    right: 116px;
+}
+.bsc{
+    position: absolute;
+    left: -22px
+}
+.svc{
+    position: absolute;
+    top: 1px;
+    left: 44px;
+}
+.cbx{
+    position: absolute;
+    top: 98px;
+    left: 43px;
+}
+.cbz{
+    position: absolute;
+    top: 170px;
+    left: 42px;
+}
